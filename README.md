@@ -22,7 +22,7 @@
 <a href="https://www.x.com/i3lyly0" target="_blank">
 <img src="https://img.shields.io/badge/i3lyly0-%23E4405F.svg?style=for-the-badge&logo=X&logoColor=white"></a>&nbsp;&nbsp;
 </p>
-<br>
+
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
