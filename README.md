@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **3lyly00@gmail.com**
 
-### Connect with me 🔗 :
+### Contact me 🔗 :
 <p align='center'>
 <a href="mailto:3lyly00@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
