@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali.</h1>
-<h3 align="center">A passionate Web Penetration Tester from Egypt</h3>
-
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I%27m+Ali+Samir;Penetration+tester;Web+Tester;Back-End+Developer">
+</p>
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 - 🌱 I’m currently learning **OS Development**
