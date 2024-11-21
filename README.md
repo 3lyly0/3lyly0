@@ -4,7 +4,7 @@
 </p>
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
-- 🌱 I’m currently learning **OS Development**
+- 🌱 I’m currently learning **Network**
 
 - 💬 Ask me about **Python, C++, Django, Qt**
 
