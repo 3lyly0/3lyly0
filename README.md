@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Network**
 
-- 💬 Ask me about **Python, C++, Django, Qt**
+- 💬 Ask me about **Python, Django, Qt**
 
 - 📫 Reach me at **3lyly00@gmail.com**
 
