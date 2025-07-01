@@ -20,7 +20,7 @@
 
 ## 🔒 Hack The Box
 
-<a href="https://app.hackthebox.com/profile/2013583" target="_blank">
+<a href="https://app.hackthebox.com/users/2013583" target="_blank">
   <img src="https://www.hackthebox.com/badge/image/2013583" alt="Hack The Box" />
 </a>
 
