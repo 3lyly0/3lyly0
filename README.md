@@ -43,7 +43,7 @@
 
 ## 🧠 CTF & Research
 
-- 🔓 Active on [![Hack The Box](https://www.hackthebox.com/badge/image/2013583)](https://app.hackthebox.com/users/2013583)
+- 🔓 Active on [Hack The Box](https://app.hackthebox.com/profile/2013583)
 - 🎯 Focused on Real-World Attack Simulation
 - 🧪 Building tools & scripts for Red Team use
 
