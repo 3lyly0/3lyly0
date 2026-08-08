@@ -1,91 +1,65 @@
-<h1 align="center">👋 Welcome to 3lyly0's Offensive Security Lab</h1>
+<h1 align="center">3lyly0</h1>
+<p align="center"><i>root@3lyly0:~# whoami</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75409&center=true&vCenter=true&width=600&lines=Red+Team+Trainee;Offensive+Security+%26+Automation;Linux+Power+User;CTF+Player;Building+and+Breaking+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=F75409&center=true&vCenter=true&width=650&lines=HTB+Guru%2C+%235+in+Egypt;Active+Directory+%26+Windows+exploitation;Python%2C+Linux%2C+and+a+lot+of+broken+VMs" />
 </p>
 
----
+<br>
 
-## 🧠 About Me
+I'm Ali. Based in Egypt, working on offensive security day to day.
 
-- 🎯 **Red Team Trainee** focused on real-world offensive security
-- 🐧 Linux power user with strong system-level understanding
-- ⚔️ Interested in breaking systems to understand how to defend them properly
+<br>
 
-My main areas of interest include:
-- Linux Privilege Escalation
-- Web & Application Exploitation
-- Post-Exploitation & Evasion
-- Red Team automation using Python
-- CTF-style attack workflows with real-world mindset
+### currently digging into
 
----
+```
+active directory        → enumeration, LDAP, SMB, domain/privilege escalation
+kerberos                → AS-REP roasting, tickets, kinit
+bloodhound / impacket    → mapping AD graphs, abusing what they show
+netexec (nxc)            → SMB/LDAP enum, credential testing, domain recon
+web pentesting            → app + API + admin endpoint exploitation
+sqlmap / SQLi             → finding it, confirming it, pulling data out
+recon                     → httpx, nuclei, live domain / tech enumeration
+python                    → PoCs, exploitation and enum automation
+```
 
-## ⚔️ Offensive Focus Areas
+Next up on the list: EDR evasion and Windows internals. Still early there, still figuring it out.
 
-- Practical Linux exploitation and escalation paths
-- Manual and automated web attack techniques
-- Writing custom scripts to support offensive operations
-- Understanding attacker mindset beyond tools and frameworks
-- Continuous learning through hands-on labs and research
+<br>
 
----
+### what I actually do with it
 
-## 🔒 Hack The Box
+HTB machines (mostly Windows/AD and web), Docker/container exploitation when it shows up in a box, and hunting bugs on the side when I've got the time. I'd rather understand ten boxes properly than skim a hundred writeups.
+
+<br>
+
+### proof, not claims
 
 <p align="center">
   <a href="https://app.hackthebox.com/users/2013583" target="_blank">
-    <img src="https://www.hackthebox.com/badge/image/2013583" alt="Hack The Box Badge" />
+    <img src="https://www.hackthebox.com/badge/image/2013583" alt="HTB Badge" />
   </a>
 </p>
 
-- Active CTF player
-- Focused mainly on Linux and web-based machines
-- Using labs as real attack simulation, not just challenge solving
+Guru rank, top 5 in Egypt. Numbers move, so check the badge above instead of trusting anything I say here.
 
----
+<br>
 
-## 🧪 Research, Automation & Practice
+### where the actual writeups live
 
-- Building small offensive scripts and helpers in Python
-- Automating repetitive attack and enumeration steps
-- Studying real-world vulnerabilities and attack chains
-- Experimenting, breaking, documenting, then improving
+Box walkthroughs, exploitation notes, whatever I broke that week, all off GitHub and on the blog.
 
----
+**[blog.3lyly0.dev](https://blog.3lyly0.dev/)**, updated whenever I finish something worth writing up, not on a schedule.
 
-## 📰 Blog & Knowledge Base
+**[3lyly0.dev](https://www.3lyly0.dev/)**, the full picture: who I am, what I've done, where this is going.
 
-I actively document my learning journey, experiments, and offensive security research on my blog.
+<br>
 
-🔗 https://blog.3lyly0.dev/
-
-The blog focuses on:
-- Hands-on offensive security write-ups
-- Linux & web exploitation techniques
-- Red Team tooling and automation ideas
-- Lessons learned from labs, CTFs, and real scenarios
-
-This blog grows continuously as I publish new content on a regular basis.
-
----
-
-## 🌐 Main Website
-
-🔗 https://www.3lyly0.dev/
-
-A central place that represents my skills, mindset, and long-term Red Team journey.
-
----
-
-## 🤝 Connect with Me
+### talk to me
 
 <p align="center">
-  <a href="mailto:3lyly00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/i3lyly0">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Discord-3lyly0-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="mailto:3lyly00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/i3lyly0"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="https://discord.com/users/914194164185456680"><img src="https://img.shields.io/badge/Discord-3lyly0-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
 </p>
