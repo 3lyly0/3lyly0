@@ -48,11 +48,7 @@ Guru rank, top 5 in Egypt. Numbers move, so check the badge above instead of tru
 
 ### where the actual writeups live
 
-Box walkthroughs, exploitation notes, whatever I broke that week, all off GitHub and on the blog.
-
-**[blog.3lyly0.dev](https://blog.3lyly0.dev/)**, updated whenever I finish something worth writing up, not on a schedule.
-
-**[3lyly0.dev](https://www.3lyly0.dev/)**, the full picture: who I am, what I've done, where this is going.
+**[3lyly0.dev](https://www.3lyly0.dev/)**, the full picture: who I am, what I've done, where this is going-including the writeups and articles, all in one place.
 
 <br>
 
